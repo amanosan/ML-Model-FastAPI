@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+matplotlib
+seaborn
+aiofiles
+jinja2
+gunicorn==19.9.0
+uvloop
+httptools
